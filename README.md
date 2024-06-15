@@ -1,4 +1,4 @@
-# Blackjack Card Game
+# Royalty Free Images Gallery
 
 ## Table of contents
 
@@ -12,15 +12,15 @@
 
 ## Overview
 
-This project implements a simplified version of the classic card game Blackjack. The game is played between the player and the dealer, with the objective of getting as close to 21 points as possible without exceeding it.
+This project is a web-based image gallery that dynamically fetches and displays images from the Unsplash API. Users can either view a random selection of photos or search for specific images based on a query parameter, with the ability to view images in a pop-up, navigate through them, and download high-resolution versions.
 
 ### Screenshot
 
-![image](https://github.com/LynetteLiu2333/Blackjack-Card-Game/assets/90663407/8ed76838-8c6a-4381-96bb-06951b6f8e60)
+![image]()
 
 ### Links
 
-- Live Site URL: [https://blackjack-card-game-u6hd.onrender.com]
+- Live Site URL: [xxx]
 
 ### Built with
 
@@ -32,12 +32,12 @@ This project implements a simplified version of the classic card game Blackjack.
 
 ### What I learned
 
-1. JavaScript Basics: This project involves fundamental JavaScript concepts such as variables, functions, loops, conditional statements, and event handling.
+1. Practical integration of Unsplash API for dynamic content retrieval based on user input.
 
-2. DOM Manipulation: The code interacts with the Document Object Model (DOM) to dynamically update the HTML content based on game events and user interactions.
+2. Improved code organization through modular functions, enhancing maintainability and readability.
 
-3. Algorithmic Thinking: The project requires implementing game logic, including card value calculation, handling Aces, determining winners, and managing game flow.
+3. Hands-on experience with DOM manipulation, event handling, and state management for interactive features like image pop-ups and navigation controls.
 
 ### Continued development
 
-For future development, consider expanding the game into a two-person experience played in real-time by implementing a multiplayer feature. This would allow players to engage in blackjack matches against each other, adding a competitive edge and social interaction to the game. By integrating real-time communication functionalities, such as chat or voice capabilities, players can interact with each other during gameplay, enhancing the overall gaming experience.
+For future development, several enhancements could elevate this project. Implementing advanced search options, like filters for category and color, would tailor results more precisely. Introducing user accounts for saving favorites and creating collections would personalize the gallery experience. Optimizing performance through lazy loading and accessibility improvements, such as better image descriptions and keyboard navigation, would ensure inclusivity. Lastly, enhancing responsive design for seamless use across devices would improve overall accessibility and usability. These updates aim to enrich user interaction and expand the application's capabilities effectively.
