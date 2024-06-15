@@ -16,7 +16,7 @@ This project is a web-based image gallery that dynamically fetches and displays 
 
 ### Screenshot
 
-![image]()
+![image](screenshot.jpg)
 
 ### Links
 
