@@ -20,7 +20,7 @@ This project is a web-based image gallery that dynamically fetches and displays 
 
 ### Links
 
-- Live Site URL: [xxx]
+- Live Site URL: [https://royalty-free-images-gallery.onrender.com]
 
 ### Built with
 
