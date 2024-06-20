@@ -37,7 +37,3 @@ This project is a web-based image gallery that dynamically fetches and displays 
 2. Improved code organization through modular functions, enhancing maintainability and readability.
 
 3. Hands-on experience with DOM manipulation, event handling, and state management for interactive features like image pop-ups and navigation controls.
-
-### Continued development
-
-For future development, several enhancements could elevate this project. Implementing advanced search options, like filters for category and color, would tailor results more precisely. Introducing user accounts for saving favorites and creating collections would personalize the gallery experience. Optimizing performance through lazy loading and accessibility improvements, such as better image descriptions and keyboard navigation, would ensure inclusivity. Lastly, enhancing responsive design for seamless use across devices would improve overall accessibility and usability. These updates aim to enrich user interaction and expand the application's capabilities effectively.
