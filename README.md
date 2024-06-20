@@ -27,6 +27,7 @@ This project is a web-based image gallery that dynamically fetches and displays 
 - HTML
 - CSS
 - Javascript
+- Unsplash API
 
 ## My process
 
