@@ -30,10 +30,16 @@ This project is a web-based image gallery that dynamically fetches and displays 
 
 ## My process
 
-### What I learned
+### What I Learned
 
-1. Practical integration of Unsplash API for dynamic content retrieval based on user input.
+- **Unsplash API Integration:** Practical experience integrating the Unsplash API for fetching and displaying images. Handling API requests and responses, including dealing with query parameters to filter image searches based on user input.
 
-2. Improved code organization through modular functions, enhancing maintainability and readability.
+- **Modular Code Organization:** Improved code structure by breaking down functionalities into modular functions. Enhanced maintainability and readability, making it easier to debug and extend the codebase in the future.
 
-3. Hands-on experience with DOM manipulation, event handling, and state management for interactive features like image pop-ups and navigation controls.
+- **State Management:** Managed the state of the application to keep track of the current set of displayed images, user search queries, and navigation through image pop-ups. Used JavaScript objects and arrays to store and update the application state.
+
+- **Interactive Features:** Developed interactive features such as image pop-ups for viewing images in detail. Implemented navigation controls within the pop-ups to allow users to browse through images without closing the pop-up.
+
+- **CSS for Styling:** Applied CSS techniques to style the gallery, pop-ups, and navigation controls. Used flexbox and grid layouts for responsive design, ensuring the gallery looks good on different screen sizes.
+
+- **Error Handling:** Implemented error handling to manage API request failures and invalid user inputs. Displayed user-friendly error messages and fallback content to ensure a seamless experience.
