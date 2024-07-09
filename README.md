@@ -21,14 +21,14 @@ This project is a web-based image gallery that dynamically fetches and displays 
 
 - Live Site URL: [https://royalty-free-images-gallery.onrender.com]
 
+## My process
+
 ### Built with
 
 - HTML
 - CSS
 - Javascript
 - Unsplash API
-
-## My process
 
 ### What I Learned
 
